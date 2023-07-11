@@ -36,6 +36,15 @@ Before running the website, ensure that you have the following dependencies inst
 
 1. Open your web browser and visit `http://localhost/online-education-website` to access the website.
 
+## Screenshorts
+- 1.Login
+  ![image](https://github.com/ysabhishekmishra/Brain-Mentors/assets/91816339/0d70d81e-9756-4016-b5f2-6b18332bed49)
+
+- 2.Video
+  ![image](https://github.com/ysabhishekmishra/Brain-Mentors/assets/91816339/52882690-7a21-4c8d-80b2-b481712cb1f0)
+
+
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
@@ -57,6 +66,6 @@ We would like to acknowledge the following resources that were used in the devel
 
 ## Contact
 
-For any inquiries or questions, please contact [your-email-address].
+For any inquiries or questions, please contact [ysabhishekmishra@gmail.com].
 
 Thank you for using our online education website! We hope it provides a valuable learning experience.
